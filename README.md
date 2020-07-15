@@ -8,6 +8,12 @@ By Jia Guo and [Jiankang Deng](https://jiankangdeng.github.io/)
 The code of InsightFace is released under the MIT License. There is no limitation for both acadmic and commercial usage.
 
 The training data containing the annotation (and the models trained with these data) are available for non-commercial research purposes only.
+
+## Hey Oge! 
+
+I hope you can see this. If you follow the instructions I sent on Slack, this should get the job done. The trained model is already saved in the /models/ directory on hutchentoot, so you don't need to mess with that. If anything throws an error/needs clarifying, just send me a message! 
+
+Best of luck! 
  
 ## ArcFace Video Demo
 
